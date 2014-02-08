@@ -1,5 +1,7 @@
 # Whisper
 
+## [View Demo Here](http://thinklens.com/)
+
 Based heavily on the default theme for [Ghost](http://github.com/tryghost/ghost/), with a few minor improvements.
 
 Improvements from Casper:
