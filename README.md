@@ -1,6 +1,6 @@
 # Whisper
 
-## [View Demo Here](http://thinklens.com/)
+## [View Demo Here](http://whisper.thinklens.com/)
 
 Based heavily on the default theme for [Ghost](http://github.com/tryghost/ghost/), with a few minor improvements.
 
