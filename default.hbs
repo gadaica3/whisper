@@ -38,6 +38,18 @@
     {{! Ghost outputs important scripts and data with this tag }}
     {{ghost_foot}}
 
+    {{! Google Analytics }}
+    <script type="text/javascript">
+        {{> config}}
+      
+        (function(g,h,o,s,t,z){g.GoogleAnalyticsObject=s;g[s]||(g[s]=
+        function(){(g[s].q=g[s].q||[]).push(arguments)});g[s].s=+new Date;
+        t=h.createElement(o);z=h.getElementsByTagName(o)[0];
+        t.src='//www.google-analytics.com/analytics.js';
+        z.parentNode.insertBefore(t,z)}(window,document,'script','ga'));
+        ga('create',ga_ua);ga('send','pageview');
+    </script>
+
     {{! The main JavaScript file for Casper }}
     <script type="text/javascript" src="{{asset "js/jquery.fitvids.js"}}"></script>
     <script type="text/javascript" src="{{asset "js/jquery.parallax-1.1.3.js"}}"></script>
