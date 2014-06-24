@@ -2,7 +2,7 @@
 
 ![Whiper Screenshot Preview](http://i.imgur.com/OxeBhhC.jpg)
 
-## [View Demo Here](http://whisper.ghost.io/)
+## [View Demo Here](http://whisper.thinklens.com/)
 
 Based heavily on the default theme for [Ghost](http://github.com/tryghost/ghost/), with a few minor improvements.
 
